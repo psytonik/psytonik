@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @psytonik
 - 👀 I’m interested in be part of project
-- 🌱 I’m currently learning react, nextjs, nodejs, typescript
+- 🌱 I’m currently developing react, nextjs, nodejs, typescript
 - 💞️ I’m looking to collaborate on nodejs or react project
 - 📫 How to reach me psytonik@icloud.com
 
